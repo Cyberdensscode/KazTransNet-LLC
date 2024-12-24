@@ -6,3 +6,6 @@
 # for improving the accuracy of Geo:IP lookups 
 
 38.210.16.0/22,KZ,KZ-KAR,Karaganda,100000
+62.108.35.0/24,KZ,KZ-KAR,Karaganda,100000
+62.108.37.0/24,KZ,KZ-KAR,Karaganda,100000
+62.108.40.0/24,KZ,KZ-KAR,Karaganda,100000
